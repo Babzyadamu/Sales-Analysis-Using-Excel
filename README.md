@@ -22,5 +22,14 @@ The aim of this analysis is to answer the following Business related questions
 - Pivot chart
 - Excel functions
 
+# Data Integration (Index Match)
+I was able to merge the various data coming from different sources using the index match function as shown below:
+
+![](Index_Match.jpg)
+
+This was the result
+
+![](Index_match2.jpg)
+
 
 
