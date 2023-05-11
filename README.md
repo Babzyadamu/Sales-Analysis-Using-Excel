@@ -8,9 +8,19 @@ This is a sales analysis using Microsoft Excel. The data was gotten from quantum
 
 The aim of this analysis is to answer the following Business related questions
 
-- What month genrated the highest revenue?
+- What month generated the highest revenue?
 - In what month did the company make the highest sales? 
 - what product generated the highest revenue?
 - Who was the highest sales person between 2018 and 2019?
 - What region generated the highest revenue?
+
+# Skills & Concept used:
+
+- Index match. This is very similar joins used in SQL to integrate data from various sources together. 
+- Data Manipulation & Transformation
+- Pivot table
+- Pivot chart
+- Excel functions
+
+
 
