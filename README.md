@@ -27,9 +27,9 @@ I was able to merge the various data coming from different sources using the ind
 
 ![](Index_Match.jpg)
 
-This was the result
+This was the result as shown below
 
-![](Index_match2.jpg)
+![](index_match2.jpg)
 
 
 
