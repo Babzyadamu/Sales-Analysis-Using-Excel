@@ -65,15 +65,18 @@ The visuals used consisted of cards to show different KPI'S, clustered column  &
 
 - The month of march genertaed the highest revenue (*$210,000*).
 - The month of may generated the highest number of sales as the quantity ordered was *1050*. 
-- Item 1 generated the highest revenue with *$737,000*
-- Anna Weber was the top sales person selling 
-- Airline AS is the most reliable at 25% and Airline B6 & F9 both at 38%.
-- 
-- What month generated the highest revenue?
-- In what month did the company make the highest sales? 
-- what product generated the highest revenue?
-- Who was the highest sales person between 2018 and 2019?
-- What region generated the highest revenue?
+- Item 1 generated the highest revenue with *$737,000*.
+- Anna Weber was the top sales person selling 1,232 products as compared to others.
+- Texas generated the highest revenue contribution with about *26.23%* followed by california with about *25.05%*.
+
+# Recommendation
+
+- There should be focus on maximizing revenue in March by analyzing the sales and marketing activities, product offerings, pricing, and customer behavior during that month to identify any patterns or successful tactics that can be replicated in other months.
+- Texas and California contributed the highest revenue percentages (26.23% and 25.05%, respectively). Allocate additional resources, marketing efforts, and sales support to these regions to maintain their strong performance and capture further market share.
+- December generated the least revenue, indicating potential challenges or factors affecting sales during that period. Analyze market dynamics, customer behavior, and any specific limitations or constraints faced in December to identify improvement opportunities for future December sales.
+-  Item 3 generated the lowest revenue of $125,000. Evaluate the factors influencing its performance, such as pricing, customer demand, or market competition. Consider strategies to increase its sales, such as targeted marketing campaigns, product positioning, or adjustments to pricing and packaging.
+-  Anna Weber stands out as the top salesperson, selling 1,232 products compared to others. Acknowledge Anna's exceptional performance and consider implementing recognition programs or incentives to motivate other sales team members and encourage healthy competition.
+
 
 
 
