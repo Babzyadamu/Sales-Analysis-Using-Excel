@@ -35,11 +35,11 @@ This was the result as shown below
 
 Part of the manipulation I did was to create a column that counts the number of customers. By default, Excel does not have an inbuilt function to a distinct count like in Power Bi using DAX, hence had to use an alternative method. This method entails breaking down the counts into fractions similar to dividing an orange into 4 quarters/fractions and then summing up the 4quarters to get a single whole orange. Below is the the Excel function i used in achieving this
 
-![](total_customer1.jpg)
+![](Distinct_Count1.jpg)
 
 Below is the end result
 
-![](total_customer2.jpg)
+![](Distinct_Count2.jpg)
 
 
 
