@@ -77,6 +77,9 @@ The visuals used consisted of cards to show different KPI'S, clustered column  &
 -  Item 3 generated the lowest revenue of $125,000. Evaluate the factors influencing its performance, such as pricing, customer demand, or market competition. Consider strategies to increase its sales, such as targeted marketing campaigns, product positioning, or adjustments to pricing and packaging.
 -  Anna Weber stands out as the top salesperson, selling 1,232 products compared to others. Acknowledge Anna's exceptional performance and consider implementing recognition programs or incentives to motivate other sales team members and encourage healthy competition.
 
+# Conclusion
+
+To all new and upcoming data analysts, I hope you find these useful. Don't forget to follow me on my [Github](https://github.com/Babzyadamu/) and [Linkedin](https://www.linkedin.com/in/ahmed-adamu-0b63b9a5)
 
 
 
