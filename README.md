@@ -49,3 +49,8 @@ Pivot Table was used to generate the KPI cards used in the final dashboard to st
 
 ![](Pivot_Table.jpg)
 
+# Pivot Chart
+
+Similary different pivot charts were created on separate sheets and were then used in the final dashboard sheet.
+
+![](Pivot_Chart.jpg)
