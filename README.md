@@ -41,5 +41,11 @@ Below is the end result
 
 ![](Distinct_Count2.jpg)
 
+A sum of all the fractions will yield the total number of customers.
 
+# Pivot Table
+
+Pivot Table was used to generate the KPI cards used in the final dashboard to stakeholders.
+
+![](Pivot_Table.jpg)
 
